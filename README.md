@@ -203,6 +203,7 @@ Use these as the canonical public-facing anchors for deconstructed loops, sample
 - [AudioSet](https://research.google.com/audioset/) - Large-scale audio event dataset.
 - [Common Voice](https://commonvoice.mozilla.org/) - Open speech dataset.
 - [Magenta Datasets](https://magenta.tensorflow.org/datasets) - Music and symbolic datasets for creative ML.
+- [MIDI Known Melody Fixture](https://github.com/luguanhuang/midi-known-melody-fixture) - A 5.85-second MP3-to-MIDI fixture with source audio, expected MIDI, and a Zenodo archive for reproducible single-melody transcription checks.
 
 ## Visualization, Notebooks & Web Audio
 
