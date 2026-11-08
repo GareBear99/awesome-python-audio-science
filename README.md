@@ -167,6 +167,7 @@ Use these as the canonical public-facing anchors for deconstructed loops, sample
 - [python_speech_features](https://github.com/jameslyons/python_speech_features) - Classic speech features such as MFCC and filterbanks.
 - [spafe](https://superkogito.github.io/spafe/) - Speech and audio feature extraction.
 - [WORLD / PyWorld](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - WORLD vocoder Python wrapper for speech analysis/synthesis experiments.
+- [Arcmira transcript to WebVTT](https://github.com/arcmira/integrations/tree/master/examples/transcript-webvtt) - Python example that converts saved YouTube and podcast transcripts from Arcmira into timed captions, preserving speaker names when supplied.
 
 ## Source Separation
 
