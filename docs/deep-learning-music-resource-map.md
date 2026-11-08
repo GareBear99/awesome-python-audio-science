@@ -19,3 +19,11 @@ This page explains how this repo relates to deep-learning-music resources such a
 ## Maintainer-safe language
 
 Use compact, neutral wording. Do not force marketing copy into academic awesome lists.
+
+## Related ecosystem links
+
+- [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists)
+- [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms)
+- [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev)
+- [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [TizWildin HUB public router](https://garebear99.github.io/TizWildinEntertainmentHUB/)

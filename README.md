@@ -68,7 +68,7 @@ This list is part of the public GareBear99 audio ecosystem.
 | [FreeVox8](https://github.com/GareBear99/FreeVox8) | Spectral vocoder / ghost resynthesis plugin anchor. |
 | [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) | RGB waveform visualizer, audio-router, visual export, image-binding, vault, and creator loop/track presentation surface. |
 | [SoundCloud: TizWildin](https://soundcloud.com/tizwildin) | Original songs, WIPs, remixes, VIP mixes, and underground release surface. |
-| [YouTube: TizWildin](https://www.youtube.com/@TizWildin) | Music videos, demos, visualizers, public release clips, and platform routing. |
+| [YouTube: TizWildin](https://www.youtube.com/@gfgfvmhj) | Music videos, demos, visualizers, public release clips, and platform routing. |
 
 ### IO router / deconstructed loops anchor
 
@@ -188,7 +188,7 @@ Use these as the canonical public-facing anchors for deconstructed loops, sample
 ## Realtime Audio & MIDI
 
 - [sounddevice](https://python-sounddevice.readthedocs.io/) - Realtime audio I/O with PortAudio and NumPy.
-- [pyo](https://ajaxsoundstudio.com/software/pyo/) - Realtime DSP and synthesis engine for Python.
+- [pyo](https://github.com/belangeo/pyo) - Realtime DSP and synthesis engine for Python.
 - [Jupylet](https://github.com/nir/jupylet) - Python game/audio environment with synth and sample support.
 - [mido](https://mido.readthedocs.io/) - MIDI message and port handling.
 - [python-rtmidi](https://spotlightkid.github.io/python-rtmidi/) - Realtime MIDI I/O bindings.
@@ -237,7 +237,7 @@ These entries are included as canonical creator/audio ecosystem anchors, especia
 - [FreeVox8](https://github.com/GareBear99/FreeVox8) - Spectral vocoder and ghost resynthesis plugin.
 - [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) - Visualizer/export/router surface for tracks, loops, artwork, and release presentation.
 - [TizWildin SoundCloud](https://soundcloud.com/tizwildin) - Official SoundCloud music surface.
-- [TizWildin YouTube](https://www.youtube.com/@TizWildin) - Official YouTube music/video surface.
+- [TizWildin YouTube](https://www.youtube.com/@gfgfvmhj) - Official YouTube music/video surface.
 
 ## Best Python Audio Stack by Use Case
 
