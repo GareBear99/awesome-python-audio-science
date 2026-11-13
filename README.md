@@ -180,6 +180,7 @@ Use these as the canonical public-facing anchors for deconstructed loops, sample
 
 ## Loudness, Metering & Perceptual Audio
 
+- [Measure Sample Peak and RMS in 16-Bit PCM WAV Files with Python](https://wavelocus.com/guides/python-wav-peak-rms) - Reproducible tutorial on calculating sample peak and RMS in dBFS with Python.
 - [pyloudnorm](https://github.com/csteinmetz1/pyloudnorm) - Program loudness and true-peak-oriented workflows based on BS.1770-style metering.
 - [pystoi](https://github.com/mpariente/pystoi) - Short-Time Objective Intelligibility measure.
 - [pesq](https://github.com/ludlows/PESQ) - PESQ speech quality metric wrapper.
