@@ -214,6 +214,7 @@ Use these as the canonical public-facing anchors for deconstructed loops, sample
 - [Gradio](https://www.gradio.app/) - Simple ML/audio demos and web UIs.
 - [TimeSide](https://github.com/Parisson/TimeSide) - Audio analysis, imaging, transcoding, streaming, and labelling tools.
 - [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) - TizWildin RGB waveform visualizer and audio export tool for creator routing and visual releases.
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares.
 
 ## Audio Plugin / Creator Tooling
 
